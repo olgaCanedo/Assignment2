@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="placesE">
+        <item>Vanessa Velez</item>
+        <item>Dora Giraldo</item>
+        <item>Brandon Benitez</item>
+        <item>Eddy Leon</item>
+        <item>Elga Brown</item>
+        <item>Keyla White</item>
+    </string-array>
+    <string-array name="place_descE">
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+            Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+    </string-array>
+
+    <string-array name="placesM">
+        <item>Yurisan Cordero</item>
+        <item>Guillermo Duran</item>
+        <item>Dayan Lee</item>
+        <item>Maria Mars</item>
+        <item>Kristen Patt</item>
+        <item>Keyla White</item>
+    </string-array>
+    <string-array name="place_descM">
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+            Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+    </string-array>
+
+    <string-array name="placesB">
+        <item>Brandon Lee</item>
+        <item>Ron Rust</item>
+        <item>Matilda Baez</item>
+        <item>Patricia King</item>
+        <item>Jhon Naranjo</item>
+        <item>Keyla White</item>
+    </string-array>
+    <string-array name="place_descB">
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+            Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+        <item>Monday: 7-2 | Tuesday: 7-2 | Wednesday: 7-2
+              Thursday: 7-2 | Friday: 7-2</item>
+    </string-array>
+
+    <string-array name="place_details">
+        <item>C for Enginners, C++, Java Advanced, PHP, SQL</item>
+        <item>C for Enginners, C++, Java Advanced, PHP, SQL</item>
+        <item>C for Enginners, C++, Java Advanced, PHP, SQL</item>
+        <item>C for Enginners, C++, Java Advanced, PHP, SQL</item>
+        <item>C for Enginners, C++, Java Advanced, PHP, SQL</item>
+        <item>C for Enginners, C++, Java Advanced, PHP, SQL</item>
+
+    </string-array>
+    <string-array name="place_locations">
+        <item>8 Rue Scribe, 75009 Paris, France</item>
+        <item>Piazza del Capitolo - 50122 Florence</item>
+        <item>New York City</item>
+        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+
+    <array name="place_avatorE">
+        <item>@drawable/tutor</item>
+    </array>
+    <array name="places_pictureE">
+        <item>@drawable/tutor</item>
+        <item>@mipmap/ic_tutor1</item>
+        <item>@mipmap/ic_launcher_tutor2</item>
+    </array>
+
+    <array name="place_avatorM">
+        <item>@mipmap/ic_tutor1</item>
+    </array>
+    <array name="places_pictureM">
+        <item>@mipmap/ic_tutor1</item>
+    </array>
+
+    <array name="place_avatorB">
+        <item>@mipmap/ic_launcher_tutor2</item>
+    </array>
+    <array name="places_pictureB">
+        <item>@mipmap/ic_launcher_tutor2</item>
+    </array>
+
+</resources>
